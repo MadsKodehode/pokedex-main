@@ -1,2 +1,3 @@
-# pokedex
-Pokedex html &amp; css
+# Pokedex
+
+Pokedex using html, css and vanilla javascript :)
